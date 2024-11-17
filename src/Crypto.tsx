@@ -118,18 +118,6 @@ const Crypto = () => {
           </p>
         </motion.section>
 
-        {/* Заключение */}
-        <motion.footer 
-          className="bg-gray-800 text-white rounded-xl p-6 shadow-lg text-center section"
-          initial="hidden"
-          animate="visible"
-          variants={sectionVariants}
-          transition={{ duration: 0.8 }}
-        >
-          <p className="text-lg font-medium">
-            Не позволяйте боли контролировать вашу жизнь. Vitacaps может стать вашим решением, как стал моим. Начните свой путь к здоровью сегодня и верните себе радость жизни!
-          </p>
-        </motion.footer>
       </article>
     </div>
   );
