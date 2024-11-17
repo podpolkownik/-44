@@ -55,7 +55,7 @@ const Crypto = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <img
-            src="https://sun9-15.userapi.com/impg/wiaIzoYHfAd4QygvWR1Fpvp9WABTTLTJ2DTT9g/kIGL6gRFbeM.jpg?size=1024x1024&quality=96&sign=70b933a0e3c1d9d2d2a019a507b611fc&type=album"
+            src="https://sun107-1.userapi.com/impg/ZInRa0L1nI9bfhbB_WbAsB4PiQgjd6r0P4TbqA/kMfOzJS2ImI.jpg?size=1280x853&quality=96&sign=8910813201f38c86a69a6dee120a2215&type=album"
             alt="Treatment Journey"
             className="w-full h-full object-cover"
           />
